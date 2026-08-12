@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This project has migrated to **<https://codeberg.org/adamlui/duckduckgpt>**
+
 <a id="top"></a>
 
 <div align="center">
