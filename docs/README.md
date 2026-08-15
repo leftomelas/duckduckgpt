@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> This project has migrated to **<https://codeberg.org/adamlui/duckduckgpt>**
+> This project has migrated to **<https://codeberg.org/KudoAI/duckduckgpt>**
 
 <a id="top"></a>
 
